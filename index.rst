@@ -12,7 +12,6 @@ Welcome to OD_Framework's documentation!
 
    Intro1
 
-
 Indices and tables
 ==================
 
